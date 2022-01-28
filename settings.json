@@ -1,0 +1,18 @@
+{
+    "git.enableSmartCommit": true,
+    "explorer.openEditors.visible": 0,
+    "workbench.colorTheme": "One Monokai",
+    "gruvboxMaterial.darkWorkbench": "high-contrast",
+    "editor.tabCompletion": "on",
+    "window.restoreFullscreen": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "workbench.iconTheme": "vscode-icons",
+    "editor.lineHeight": 28,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.nativeFullScreen": false,
+    "window.nativeTabs": true,
+    "blade.format.enable": true,
+    "editor.detectIndentation": false,
+    "go.toolsManagement.autoUpdate": true,
+    "window.zoomLevel": 1
+}
